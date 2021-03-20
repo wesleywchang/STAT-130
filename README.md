@@ -1,2 +1,2 @@
 # STAT 130
- STAT 130 - Fall 2020 - Prof. Subir Ghosh
+Sampling Surveys - Fall 2020 - Prof. Subir Ghosh
